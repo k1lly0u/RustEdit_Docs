@@ -11,7 +11,7 @@ You can change the movement controls in Edit -> Preferences -> Controls.
 
 You can modify the camera's movement speed, field of view, and view distance in Edit -> Preferences -> General.
 
-![](https://i.gyazo.com/09e33d1e5ec9397136ee7a41e2c1a28e.png}
+![](https://i.gyazo.com/09e33d1e5ec9397136ee7a41e2c1a28e.png)
 
 The camera has a light which can be toggled by pressing L
 

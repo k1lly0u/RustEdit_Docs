@@ -1,6 +1,6 @@
 ![GitHub Logo](https://www.rustedit.io/images/re_logo.png)
 
-**Welcome to RustEdit!**
+# Welcome to RustEdit!
 
 Check out the forum [here](https://www.rusedit.io/)
 

@@ -11,6 +11,8 @@ C - Down
 F - Focus camera on selection
 L - Toggle camera light
 ```
+
+
 **General**
 ```
 H - Toggle scene hierarchy
@@ -20,6 +22,8 @@ Ctrl + Y - Perform redo
 Ctrl + Shift + S - Quick save map
 Ctrl + Alt + S - Save map to new files
 ```
+
+
 **Map**
 ```
 G - Generate and open map
@@ -27,20 +31,28 @@ Double Mouse0 - Teleport to position on map
 Hold Mouse1 + Drag - Move map
 Mouse Scroll - Zoom
 ```
+
+
 **Brush Tools** (any tool with a brush)
 ```
 Ctrl + Mouse Scroll - Rotates brush (if applicable)
 ```
+
+
 **Path Tools**
 ```
 Shift + Mouse0 - Create a path node at the mouse position
 Ctrl + Mouse1 - When used on a node connection line creates a path node at the mouse position
 Ctrl + A - Select all path nodes
 ```
+
+
 **Prefab and Scene Hierarchy**
 ```
 Up/Down Arrow - Cycle through prefabs in hierarchy
 ```
+
+
 **Terrain Tools**
 ```
 Mouse0 - Apply terrain tool

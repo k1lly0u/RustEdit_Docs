@@ -6,15 +6,15 @@ The transform gizmo and respective tool panel are enabled when you have a prefab
 You can use the transform gizmo to manipulate position, rotation and scale of objects.
 
 You can either manipulate the position, rotation and scale values directly through the input fields in the tool panel, 
-or you can use the gizmo tool.
-
-The gizmo tool has 3 different modes, 1 for each transform type.
+or you can use the gizmo tool. The gizmo tool has 3 different modes, 1 for each transform type.
 
 The move gizmo has the 3 axis lines, 3 squares, and a white box in the middle. The axis lines only move on that axis, 
 the squares move on the 2 axes they are aligned with, and the white square moves on all axes at once.
+
 ![](https://i.gyazo.com/828d0ba34f845d3047d06cc5542db9a9.png)
 
 The rotation gizmo has 3 circles, 1 for each axis. You can also click between the circles and rotate on all axes at once.
+
 ![](https://i.gyazo.com/248b36e3ebb0d5237e0b841b008dd856.png)
 
 The scale gizmo has 3 axis lines, and a white box in the middle. The 3 lines manipulate each axis respectively and the

@@ -1,5 +1,7 @@
 This repository is setup for documentation for RustEdit that is displayed in the about/help menu in editor.
 
+![](https://i.gyazo.com/83bc23224fb9318758a139457f259669.png)
+
 
 New topics can be created by making a new Markdown document, when done add the topic name and the link to the raw file to the manifest.
 

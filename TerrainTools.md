@@ -3,8 +3,11 @@
 The terrain tool is a collection of various tools used to manipulate the terrain mesh. You can use these tools to create any kind of terrain you want.
 
 **Brush Options**
+
 *Size* is the size of the brush in height map pixels.
+
 *Opacity* is the strength of the brush.
+
 *Rotation* is the rotation of the brush
 
 **Modification Tools**

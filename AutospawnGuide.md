@@ -1,7 +1,13 @@
 This document serves as a guide to all auto-spawned entities using topology to determine spawn locations.
 
+Splat - The entity will only spawn in areas where any of these splat types
+Biome - The entity will only spawn in areas where any of these biome types
+Required Topology - The entity will only spawn in areas where all of these topology types are located
+Blocked Topology - The entity will not spawn in areas where any of these topology types are located
+Any Topology - The entity will only spawn in areas where any of these topology types are located
 
-| Entity | Required Splat | Required Biome | Required Topology | Blocked Topology | Any Topology |
+
+| Entity | Splat | Biome | Required Topology | Blocked Topology | Any Topology |
 | --- | --- | --- | --- | --- | --- |
 | rhib | Dirt, Sand, Grass, Forest, Stones and Gravel | Arid and Tundra | Ocean | Beachside and Beach | Ocean |
 | rowboat | Dirt, Sand, Grass, Forest, Stones and Gravel | Arid, Temperate and Tundra | Beach | Beachside | Oceanside, River, Riverside, Lake and Lakeside |

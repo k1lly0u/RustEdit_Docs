@@ -1,8 +1,10 @@
+#Autospawn Topology Guide
+
 This document serves as a guide to all auto-spawned entities using topology to determine spawn locations.
 
-**Splat** - The entity will only spawn in areas where any of these splat types
+**Splat** - The entity will only spawn in areas where any of these splat types are located
 
-**Biome** - The entity will only spawn in areas where any of these biome types
+**Biome** - The entity will only spawn in areas where any of these biome types are located
   
 **Required Topology** - The entity will only spawn in areas where all of these topology types are located
   

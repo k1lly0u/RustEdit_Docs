@@ -15,6 +15,11 @@ them not spawning there.
   
 **Any Topology** - The entity will only spawn in areas where any of these topology types are located
 
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
+
 
 | Entity | Splat | Biome | Required Topology | Blocked Topology | Any Topology |
 | --- | --- | --- | --- | --- | --- |

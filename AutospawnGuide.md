@@ -2,6 +2,9 @@
 
 This document serves as a guide to all auto-spawned entities using topology to determine spawn locations.
 
+For entities to autospawn you need a sizebale area with the appropriate splat, biome and topologies. Creating little blobs of the conditions will likely result in
+them not spawning there.
+
 **Splat** - The entity will only spawn in areas where any of these splat types are located
 
 **Biome** - The entity will only spawn in areas where any of these biome types are located

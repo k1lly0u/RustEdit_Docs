@@ -18,7 +18,7 @@ them not spawning there.
 
 | Entity | Splat | Biome | Required Topology | Blocked Topology | Any Topology |
 | --- | --- | --- | --- | --- | --- |
-| | 2module_car_spawned.entity | Dirt, Snow, Sand, Rock, Grass, Forest, Stones and Gravel | Arid, Temperate and Tundra | None | Cliff, Summit, Beachside, Beach, Forest, Forestside, Ocean, Oceanside, Decor, Swamp, River, Riverside, Lake, Lakeside, Offshore, Powerline, Building, Cliffside, Mountain, Clutter and Hilltop | Road and Roadside |
+| 2module_car_spawned.entity | Dirt, Snow, Sand, Rock, Grass, Forest, Stones and Gravel | Arid, Temperate and Tundra | None | Cliff, Summit, Beachside, Beach, Forest, Forestside, Ocean, Oceanside, Decor, Swamp, River, Riverside, Lake, Lakeside, Offshore, Powerline, Building, Cliffside, Mountain, Clutter and Hilltop | Road and Roadside |
 | 3module_car_spawned.entity | Dirt, Snow, Sand, Rock, Grass, Forest, Stones and Gravel | Arid, Temperate and Tundra | None | Cliff, Summit, Beachside, Beach, Forest, Forestside, Ocean, Oceanside, Decor, Swamp, River, Riverside, Lake, Lakeside, Offshore, Powerline, Building, Cliffside, Mountain, Clutter and Hilltop | Road and Roadside |
 | 4module_car_spawned.entity | Dirt, Snow, Sand, Rock, Grass, Forest, Stones and Gravel | Arid, Temperate and Tundra | None | Cliff, Summit, Beachside, Beach, Forest, Forestside, Ocean, Oceanside, Decor, Swamp, River, Riverside, Lake, Lakeside, Offshore, Powerline, Building, Cliffside, Mountain, Clutter and Hilltop | Road and Roadside |
 | american_beech_a | Grass and Forest | Temperate | Forest | Cliff, Summit, Beachside, Beach, Forestside, Ocean, Road, Swamp, River, Lake, Offshore, Powerline, Building and Alt | Forest |
